@@ -34,20 +34,14 @@ body {
 #showcase .button {
     font-size: 18px;
     text-decoration: none;
-    color: #926239;
+    color: #926239; 
     border: #926239 1px solid;
     padding: 10px 20px;
     border-radius: 10px;
     margin-top: 20px;
 }
 
-#showcase a:hover{
-	color:#FFF;
-	background-color: #926239;
-}
-
-
-#sectionA, #sectionC .box-1, #sectionC .box-3 {
+#showcase a:hover, #sectionA, #sectionC .box-1, #sectionC .box-3 {
     background: #926239;
     color: #fff;
 }
